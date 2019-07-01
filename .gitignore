@@ -3,6 +3,7 @@
 
 # non C++ VS files I don't think I need...
 *.sln
+pch*
 *.vcxproj
 *.filters
 *.user
